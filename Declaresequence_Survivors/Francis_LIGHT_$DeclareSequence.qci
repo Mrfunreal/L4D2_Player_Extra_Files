@@ -1,3 +1,4 @@
+//This declaresequence is specifically for the biker_light model, to be used along $IncludeModel "survivors/Anim_Biker_Light.mdl"  
 $DeclareSequence "Biker"
 $DeclareSequence "animHack"
 $DeclareSequence "dlc1_intro_male_idle"

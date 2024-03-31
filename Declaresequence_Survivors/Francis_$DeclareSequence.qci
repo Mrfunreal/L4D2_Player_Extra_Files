@@ -1,5 +1,6 @@
 //We are NOT commenting out anything here by default, should you want to use the "Easy includemodel" for Louis/Francis.
-//The "Easy includemodel" for Louis/Francis allows you to not compile any anims except your proportion trick anims.$DeclareSequence Biker
+//The "Easy includemodel" for Louis/Francis allows you to not compile any anims except your proportion trick anims.
+$DeclareSequence Biker
 $DeclareSequence animHack
 $DeclareSequence Heal_Self_Standing_06
 $DeclareSequence Idlenoise

@@ -1,3 +1,4 @@
+//This declaresequence is specifically for the teenangst_light model, to be used along $IncludeModel "survivors/Anim_Teenangst_Light.mdl"  
 $DeclareSequence "TeenAngst"
 $DeclareSequence "ragdoll"
 $DeclareSequence "dlc1_intro_zoey_idle"
