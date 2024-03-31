@@ -1,4 +1,4 @@
-//We are NOT commenting out anything here by default, should you want to use the "Easy includemodel" for Louis/Francis.
+//We are NOT commenting out anything here by default, should you want to use the "Easy includemodel" for Louis/Francis. (This system has yet to be finished and shipped)
 //The "Easy includemodel" for Louis/Francis allows you to not compile any anims except your proportion trick anims.
 $DeclareSequence Manager
 $DeclareSequence Heal_Self_Standing_06
