@@ -6,7 +6,7 @@
 ## Table of contents 
 | Title										| Description |
 |-|-|
-| Declaresequence_Infected Declaresequence_Survivors | Just a set of declaresequence files, required for the proportion trick. |
-| Survivor_Anim_Swap | Declaresequence Files required for when you want to use the animations of one playermodel on another, Or for when you want to port a mod to replace another player.	|
+| Declaresequence_Infected Declaresequence_Survivors | Declaresequence files required for the proportion trick. |
+| Declaresequence_Anim_Swap | Declaresequence Files required for when you want to use the animations of one playermodel on another, Or for when you want to port a mod to replace another player.	|
 | Refpose_Pack_For_proportion | The original player's refpose needed for the proportion trick. |
 | Weapon_Attachments.smd | A helper model to allow for easy positioning of weapon attachments on the player's body. |
