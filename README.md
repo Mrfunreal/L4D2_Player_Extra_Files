@@ -10,4 +10,4 @@
 | Declaresequence_Anim_Swap | Declaresequence Files required for when you want to use the animations of one playermodel on another, Or for when you want to port a mod to replace another player.	|
 | New_Includemodels | A set of includemodels for Biker, Manager, Biker_Light and Teenangst_Light. <br>Normally, these four models are compiled with anims inside the player. But with these files, this will no longer be needed. |
 | Refpose_Pack_For_proportion | The original player's refpose needed for the proportion trick. |
-| Weapon_Attachments.smd | A helper model to allow for easy positioning of weapon attachments on the player's body. |
+| Weapon_Attachments.smd Weapon_Attachments_new.dmx| A helper model to allow for easy positioning of weapon attachments on the player's body. I recommend the dmx, because it also contains the chainsaw, uzi and spas. |
