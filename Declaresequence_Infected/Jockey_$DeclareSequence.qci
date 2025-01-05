@@ -1,4 +1,4 @@
-Jockey and Ragdoll sequences are part of the QC. Which should be defined before any includemodel. Hence we comment it out here.
+//Jockey and Ragdoll sequences are part of the QC. Which should be defined before any includemodel. Hence we comment it out here.
 //$declaresequence "jockey"
 //$declaresequence "ragdoll"
 $declaresequence "Standing_Idle"
