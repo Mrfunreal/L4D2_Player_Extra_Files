@@ -1,4 +1,4 @@
-Hunter and Ragdoll sequences are part of the QC. Which should be defined before any includemodel. Hence we comment it out here.
+//Hunter and Ragdoll sequences are part of the QC. Which should be defined before any includemodel. Hence we comment it out here.
 //$declaresequence "hunter"
 //$declaresequence "ragdoll"
 $declaresequence "Idle_Upper_KNIFE"
