@@ -1,5 +1,6 @@
-$declaresequence "hunter"
-$declaresequence "ragdoll"
+Hunter and Ragdoll sequences are part of the QC. Which should be defined before any includemodel. Hence we comment it out here.
+//$declaresequence "hunter"
+//$declaresequence "ragdoll"
 $declaresequence "Idle_Upper_KNIFE"
 $declaresequence "Idle_Standing_01"
 $declaresequence "Idle_Standing_02"
