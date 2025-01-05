@@ -1,5 +1,6 @@
-$declaresequence "jockey"
-$declaresequence "ragdoll"
+Jockey and Ragdoll sequences are part of the QC. Which should be defined before any includemodel. Hence we comment it out here.
+//$declaresequence "jockey"
+//$declaresequence "ragdoll"
 $declaresequence "Standing_Idle"
 $declaresequence "Crouch_Idle"
 $declaresequence "Run"
