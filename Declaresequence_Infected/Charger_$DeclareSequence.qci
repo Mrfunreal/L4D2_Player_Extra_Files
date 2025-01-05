@@ -1,4 +1,4 @@
-Charger and Ragdoll sequences are part of the QC. Which should be defined before any includemodel. Hence we comment it out here.
+//Charger and Ragdoll sequences are part of the QC. Which should be defined before any includemodel. Hence we comment it out here.
 //$declaresequence "ragdoll"
 //$declaresequence "charger"
 $declaresequence "Idle_Upper_KNIFE"
