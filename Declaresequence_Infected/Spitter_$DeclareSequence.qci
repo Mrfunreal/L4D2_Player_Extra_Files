@@ -1,5 +1,6 @@
-$declaresequence "spitter"
-$declaresequence "ragdoll"
+Spitter and Ragdoll sequences are part of the QC. Which should be defined before any includemodel. Hence we comment it out here.
+//$declaresequence "spitter"
+//$declaresequence "ragdoll"
 $declaresequence "Standing_Idle"
 $declaresequence "Crouch_Idle"
 $declaresequence "Run"
