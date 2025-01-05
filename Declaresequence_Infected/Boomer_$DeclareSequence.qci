@@ -1,8 +1,9 @@
 //BOOMETTE DOES NOT HAVE THE BOOMER SEQUENCE
 //HER FIRST SEQUENCE IS "RAGDOLL"
+//REGARDLESS, THEY'RE IN THE QCM, LISTED BEFORE DECLARESEQUENCE. THEREFORE WE DO NOT DEFINE THEM HERE!
 
-$declaresequence "boomer" //BOOMETTE DOES NOT HAVE THIS ONE
-$declaresequence "ragdoll"
+//$declaresequence "boomer" //BOOMETTE DOES NOT HAVE THIS ONE
+//$declaresequence "ragdoll"
 $declaresequence "Idle_Upper_KNIFE"
 $declaresequence "Idle_Standing"
 $declaresequence "Crouch_Idle_Upper_KNIFE"
