@@ -1,7 +1,7 @@
 # L4D2_Player_Extra_Files
  This is a set of files useful for making L4D2 playermodels. Qci files, helper models, ref poses, ect...<br>
  Instead of making you download five zip files, you could just download all at once, or just the files you need.<br>
- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A11XXM4Q)
+<a href="https://ko-fi.com/A0A11XXM4Q">  <img src="https://raw.githubusercontent.com/Mrfunreal/Various/refs/heads/main/images/Ko-Fi_smaller.png" width="50%"></a><br>
 
  
 ## Table of contents 
